@@ -1,3 +1,3 @@
 # birthday-reminder-app
 
-created a reminder app using React.js
+designed a reminder app using React.js
